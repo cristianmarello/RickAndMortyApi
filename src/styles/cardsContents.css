@@ -1,0 +1,40 @@
+
+.card__style{
+    text-decoration: none;
+   border-radius: 20px;
+   overflow: hidden;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  
+}
+
+.img_first{
+ width: 100%;
+}
+
+.name__card{
+    padding: 4px;
+    font-size: 22px;
+    color: black;
+    font-weight: 800;
+}
+
+.status__card{
+    margin: 12px;
+    position: absolute;
+    background-color: red;
+    border-radius: 5px;
+    width: 70px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    color: white;     
+}
+
+.location__card{
+    padding: 4px;
+    font-size: 18px;
+    color: black;
+    font-weight: 400;
+}
